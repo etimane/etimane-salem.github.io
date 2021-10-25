@@ -1,0 +1,83 @@
+body{
+    background-color: wheat;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+    form{
+       width: 240px; 
+       text-align: center;
+       margin-top: 10px;
+       
+    }
+    label{
+        width: 100px;
+        text-align: center;
+        font-size: larger;
+        color: lightgoldenrodyellow;
+        
+    }
+    input{
+        width: 290px;
+        text-align: center;
+        background: transparent;
+        border: none;
+        border-bottom: 2px solid ghostwhite;
+        font-size: 18px;
+        font-weight: 300px 0;
+        padding: 10px 0;
+        transition: border 0.5s; 
+        outline: none;
+        height: 15px;
+    }
+    .signUpBox{
+     background: rgba(44, 64, 80, 0.7);   
+    border: none;
+    width: 340px;
+    margin-top: 10px;
+    margin-left: 180px;
+    margin: 0 auto;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    }
+
+    button{ 
+        border: none;
+        border-radius: 15px;
+        width: 120px;
+        font-size: 20;
+        line-height: 20px;
+    } 
+    button:hover {
+        background: gold;
+        color: white;
+        width: 90px;
+    }
+    h2 {
+        color: wheat;
+        }
+    h3{
+        color:goldenrod;
+        text-align: center;
+    }
+    legend{
+        color: goldenrod;
+        font-size: 20px;
+    }
+     
+    ::placeholder{
+        color: whitesmoke;
+        opacity: 0.4;
+    }
+    
+    a{
+        color: gold;
+    }
+    
+    a:hover{
+        color: cyan;
+    }
+    
+    
+    
